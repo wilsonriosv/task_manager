@@ -1,4 +1,8 @@
-.task {
+.task-name {
     font-weight: bold;
-    color: cadetblue;
+    color: rgb(0, 0, 0);
+}
+
+.task-action{
+    cursor: pointer;
 }
